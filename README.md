@@ -48,9 +48,9 @@
 
 ## AI 绘画 / 图像生成
 
-- **[@MidjourneyBot](https://t.me/MidjourneyBot)** — Midjourney 官方绘画机器人
-- **[@StableDiffusionBot](https://t.me/StableDiffusionBot)** — Stable Diffusion 文生图
-- **[@DalleRobot](https://t.me/DalleRobot)** — DALL·E 图像生成
+- **[@midjourneyfreebot](https://t.me/midjourneyfreebot)** — Midjourney 官方绘画机器人
+- **[@sd_onf_bot](https://t.me/sd_onf_bot)** — Stable Diffusion 文生图
+- **[@SigmaAIgptBot](https://t.me/SigmaAIgptBot)** — Sigma AI | DALL-E + ChatGPT 图像生成
 - **[@AIImageBot](https://t.me/AIImageBot)** — AI 图片生成工具
 
 ---
