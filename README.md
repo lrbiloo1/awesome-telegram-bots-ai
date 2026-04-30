@@ -31,6 +31,7 @@
 - [AI 绘画 / 图像生成](#ai-绘画--图像生成)
 - [AI 写作 / 翻译](#ai-写作--翻译)
 - [AI 助手 / 自动化](#ai-助手--自动化)
+- [视频下载 / 媒体工具](#视频下载--媒体工具)
 - [机器人目录](#机器人目录)
 - [贡献指南](#贡献指南)
 - [免责声明](#免责声明)
@@ -68,6 +69,12 @@
 - **[@TaskAutomationBot](https://t.me/TaskAutomationBot)** — AI 任务自动化
 - **[@ReminderAIBot](https://t.me/ReminderAIBot)** — 智能提醒
 - **[@SmartAssistantBot](https://t.me/SmartAssistantBot)** — 多功能 AI 助手
+
+---
+
+## 视频下载 / 媒体工具
+
+- **[@cybercollectorbot](https://t.me/cybercollectorbot)** — 免费视频下载机器人，支持 TikTok（无水印）、Instagram Reels/Stories、YouTube+Shorts、X/Twitter、Facebook，无需注册，无广告。[官网](https://cybercollector.hitkey.io)
 
 ---
 
